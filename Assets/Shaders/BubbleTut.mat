@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BubbleShader
-  m_Shader: {fileID: -6465566751694194690, guid: 039a76fcb37549e47ac69607f0c759c1, type: 3}
+  m_Name: BubbleTut
+  m_Shader: {fileID: -6465566751694194690, guid: 623ea55e85aa2be44a5b1e66ce3b4662, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -27,12 +27,11 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Fresnalpower: 1
-    - _InnerAlpha: 0
+    - _FresnelPower: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.6553583, g: 0.514151, b: 1, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &7612736696872009017
+--- !u!114 &4046233778562906817
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
