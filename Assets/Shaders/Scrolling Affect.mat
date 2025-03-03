@@ -31,11 +31,12 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _FresnelPower: 5
-    - _InnerAlpha: 0.4
-    - _WaveSpeed: 3
+    - _Float: -0.07
+    - _FresnelPower: 1
+    - _InnerAlpha: 0.3
+    - _WaveSpeed: 2
     m_Colors:
-    - _Color: {r: 0.7198429, g: 0.7028302, b: 1, a: 1}
+    - _Color: {r: 0.6516612, g: 0.6273585, b: 1, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &9089113872605059780
 MonoBehaviour:
