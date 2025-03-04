@@ -369,17 +369,33 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: cd261fa7512c18b4699cc38ab4c17263, type: 2}
     - target: {fileID: -2720221069562527839, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -2720221069562527839, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4672eb9cc5d5d334fb9ee03a47162031, type: 2}
+    - target: {fileID: -2720221069562527839, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd261fa7512c18b4699cc38ab4c17263, type: 2}
     - target: {fileID: 919132149155446097, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
       propertyPath: m_Name
       value: AssetsTextured
       objectReference: {fileID: 0}
     - target: {fileID: 6281844486009141970, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6281844486009141970, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ae07b467915c0f9409e5af25b6979940, type: 2}
+    - target: {fileID: 6281844486009141970, guid: 774cdb077108fe548bdcc185d5105117, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd261fa7512c18b4699cc38ab4c17263, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
